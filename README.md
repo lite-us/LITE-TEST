@@ -1,4 +1,4 @@
-# This project used to  automated testing for TRON-US product
+# This project used to  automated testing for LITE-US product
 
 ### 1. Test for Android TRON-LINK App
 
